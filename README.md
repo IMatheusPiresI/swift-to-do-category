@@ -39,9 +39,9 @@ height="380px"/>
 ✅ Project created using MVC pattern.<br>
 ✅ Use Core Data for save user To Do Categories and Items. <br>
 ✅ Create Swipe actions for edit and delete categories/items. <br>
-✅ Create Drag And Drop for organize categories/items.
-✅ Delete categories and remove referencies for relation ship on Core Data.
-✅ Interfaces, icons, and color palette created by Me using Figma.
+✅ Create Drag And Drop for organize categories/items. <br>
+✅ Delete categories and remove referencies for relation ship on Core Data. <br>
+✅ Interfaces, icons, and color palette created by Me using Figma. <br>
 
 <h3 id="autor">🌁 Figma</h3>
 
