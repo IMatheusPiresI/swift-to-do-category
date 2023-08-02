@@ -31,7 +31,7 @@ height="380px"/>
 
 ◽ Clone the repository using Git Bash + the command:
 
-       $ git clone git@github.com:IMatheusPiresI/swift-chat.git
+       $ git clone git@github.com:IMatheusPiresI/swift-to-do-category.git
 
 <h3 id="sobre">📍 About</h3>
 
